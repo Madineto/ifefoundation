@@ -1,7 +1,7 @@
 
 import  vid from '../assets/Images/video.png'
 
-const Know = () => {
+const Doings = () => {
   return (
     <div className='container flex ml-[5rem]  justify-around'>
         <div className='flex flex-col w-2/5  space-y-4 mt-[2rem]'>
@@ -35,4 +35,4 @@ const Know = () => {
   )
 }
 
-export default Know
+export default Doings
