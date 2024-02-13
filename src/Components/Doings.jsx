@@ -1,5 +1,5 @@
 
-import  vid from '../assets/Images/video.png'
+import  vid from './assets/Images/video.png'
 
 const Doings = () => {
   return (
